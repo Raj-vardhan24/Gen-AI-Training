@@ -1,0 +1,702 @@
+Scope
+
+
+
+1. The policy is applicable to all employees on payrolls of HCL Technologies Ltd and its subsidiaries located in India.
+2. Enrollment for "Self" is mandatory, with no option to opt-out.
+3. Probationary employees on company payrolls are covered.
+4. EMCP Employees: Dependents of employees transferred Onsite are covered under the Extended Medical Coverage Plan (EMCP).
+5. Retiring Employees and those with 10 or more years of experience.
+    * They have the option to continue coverage post-retirement by paying pro-rata premiums. Dependents declared at retirement continue coverage until September '26 with no changes, except for life-changing events. Premiums and coverage limits are as per last employee band before retirement. Coverage choice must be notified 30 days before retirement or Last Working Day (LWD).
+This Policy DOES NOT Cover Specific Employee Categories
+
+1. ESI Employees
+* Employees covered under ESI are not automatically included in HCL's corporate Medical Insurance policy.
+* However, they have a one-time option to enroll during the dependent declaration window or within 21 days of joining.
+* If opted, the employee bears the additional annual premium cost as per policy terms.
+Once enrolled, opting out is not permitted until the policy lock-in period ends in September '26.
+
+2. Contract Employees
+* Contract employees (CS, CR, CT, AT, and TS) under direct payroll are not initially covered.
+* They have a one-time opportunity to join during the dependent declaration window or within 21 days of joining.
+* Sum insurance coverage aligns with the employee's retired/last applicable band.
+* The employee bears additional annual premium costs.
+Opting out is prohibited until the policy lock-in period ends in September '26.
+
+Medical Allowance: Domiciliary claims are not covered by this Medical Insurance policy.
+Medical Insurance Portability: If you leave the organization, you have the option to port the base policy according to the terms of New India Assurance. Changes in the sum insured (SI) limit and the selection of dependents will not be permitted at the time of porting the policy. Employees must contact dryagdeep.chugh@indiainsure.com / ashish.s@indiainsure.com at least 15 days before their Last Working Day (LWD) for portability.
+
+
+
+Policy Statement
+
+
+ 
+The Policy aims to provide for comprehensive health insurance coverage, arising owing to medical exigencies to employees & their immediate family dependents and suitably support with adequate financial assistance.
+Medical Insurance Coverage Overview
+Benefits covered under the scope of the Medical Insurance Policy Include:
+1. Medical Insurance Base Plan
+    * Hospitalization (minimum 24 hours)
+    * Non-Hospitalization/Day Care (less than 24 hours)
+    * Maternity
+2. Domiciliary/OPD Plan
+3. Top-Up Plan
+4. Room Rent Enhancement
+We have partnered with the New India Assurance company Ltd. as our insurer and Medi Assist TPA Pvt Ltd. as our Third Party Administrator (TPA) to provide comprehensive medical coverage. 
+This year for our OPD plans, we have partnered with Aditya Birla Health Insurance (ABHI).
+Medical Insurance Base Plan  
+Employee Grade	Benefit Limit (INR)	Premium (INR)
+E0 & E1	3,60,000	10,000
+E2 & E3	5,00,000	20,000
+E4 & above	7,00,000	35,000
+ 
+Dependents Definition:
+* Maximum of 7 dependents allowed
+* Spouse
+* Dependent son/adopted son (below 25)
+* Dependent daughter/adopted daughter (below 25)
+* Parents/parents-in-law
+* Dependent brothers & sisters (below 21)
+* Divorced/separated/widow sisters/daughters if unemployed
+* Specially abled siblings if unemployed
+* Same-sex spouse allowed
+* Combination of parents and parents-in-law allowed under specific conditions (In case of demise)
+* Parental SI restriction at 50% of base SI limit for all the employees having INR 5,00,000 and above SI limit.( not applicable to E0 & E1 band employees)
+* Surrogacy and legal adoption included
+* Addition & Deletion of members : Additions/deletions allowed only for natural reasons
+* Following Timelines for additions/deletions must be followed strictly
+* Our Base Policy being a group corporate policy, the insurer doesn’t provide any tax exemption certificate for any additional premium payment under Section 80D
+Timelines
+ 
+Categories	Type	Timelines
+Addition of newborn baby	Addition	Allowed within 60 days from date of birth
+Adoption	Addition	Allowed within 60 days from date of adoption
+Demise of dependent	Deletion	Allowed within 60 days from date of death
+Marriage	Addition	Allowed within 45 days from date of marriage
+Divorce from spouse	Deletion	Allowed within 30 days from date of divorce
+Retirement of parents	Addition	Allowed within 30 days from date of retirement
+Addition of In-laws post marriage	Addition	Allowed within 45 days from date of marriage
+Important Notice: If employees fail to declare natural additions/deletions within the specified timeframe, they won't be able to add/delete such dependents until the next enrolment window in the policy period 2026-27.
+
+Deletion of dependents within the policy cycle is permitted only for natural deletions (demise or divorce). However, if a claim for the dependent has been made within the same policy cycle, deletion will not be allowed until the policy end date, i.e., 30 Sept' 26.
+
+Siblings/Children Coverage
+* Siblings/children can be covered under the policy if their age is below 21 years for siblings and 25 years for children.
+* Failure to delete siblings who have surpassed the age of 21 will result in the insurer not honouring medical claims for said siblings.
+* Divorced/separated/widow sisters/daughters, if unemployed, and specially abled siblings, if unemployed, will be considered as dependents.
+New Joiners
+* Newly joined employees must declare dependents on the Benefits Portal within 21 days from their Date of Joining (DOJ).
+* The Insurance Company will entertain no additions or deletions after the last date of the open enrollment window on the Benefits Portal. Failure to declare dependents by the last enrollment date will result in them not being covered in the current medical policy (1 Oct’ 25 – 30 Sept’ 26).
+* Submission is allowed once only and changes will only be allowed with respect to DOB and name correction.
+Benefits under the Policy
+ 
+Category	Benefits Entitled
+Pre-Existing Conditions	Covered from day one
+Pre and Post Hospitalization	•	Expenses payable for 30 days prior to admission and 60 days post-discharge
+	•	Post-hospitalization physiotherapy covered up to 90 days
+Hospitalization due to terrorism	Covered
+Psychiatric Coverage	Covers only employees - maximum amount of claim is INR 40,000
+Cervical Cancer	•	Covered for female employees
+	•	Vaccination – Employees are entitled to proactive vaccination coverage. The insurer pays a percentage of the vaccine cost per sitting, with maximum of 3 sittings.
+Artificial life/limb support	•	Artificial life/limb support covered
+	•	Expensive items like pacemakers, artificial limb replacements resulting from accidents during the Policy period covered
+	•	Pacemaker Operation covered for basic surgery - advance not covered.
+	•	Insurer reimburses expenses for such items at actuals, subject to available limit under Hospitalization and other Policy terms
+Congenital diseases	Congenital internal diseases covered; external congenital diseases covered only for non-cosmetic reasons
+Hospitalization claims for Homeopathic & Ayurveda treatments/ AYUSH treatment	Treatments covered under hospitalization only subject to treatment in any Government Hospitals, Medical College/NABH accredited hospitals, or hospitals approved/authorized by Quality Council of India (QCI).
+Facial Corrections	•	Includes: Expenses for facial corrections, recommended by a Registered Practitioner.
+	•	Teeth limit covered till dental limit.
+	•	Excludes: Expenses for cosmetic/aesthetic purposes.
+	•	Subject to available limit under Hospitalization
+Maternity Benefit*
+*Medical treatment expenses traceable to childbirth (including complicated deliveries/ maternity related complications and caesarean sections incurred during hospitalization) except ectopic pregnancy is capped at Maternity limit	•	Applicable for self & spouse. 
+	•	The claim applies to the first two living children.
+	•	The maximum amount of claim under maternity* is INR 60,000; in case of twins/triplets the maximum amount of claim under maternity is INR 80,000 for cities- Delhi/NCR, Coimbatore, Vijayawada, Hubli, Bengaluru, Pune, Lucknow, Patna, Chennai, Nagpur, Madurai, Thoothukudi, Hyderabad, Kochi, Mumbai, Hardoi, Kolkata.
+	•	For other locations the maximum amount of claim under maternity is INR 50,000; in case of twins/triplets the maximum amount of claim under maternity is INR 70,000
+	•	Termination of Pregnancy- Covered under the Maternity Benefit only
+	•	In case of surrogate mother- The delivery expenses are Covered as per the Maternity Benefit terms only
+	•	Well Baby charges are not covered.Well-baby or well-child care expenses refer to wherein the child is born well however undergoes regular health check-ups, general observation for infants and children, aimed at monitoring their growth and development, as well as preventing illnesses through vaccinations and screenings
+	•	Expenses from voluntary termination not covered; expenses from spontaneous termination (miscarriage) covered.
+	•	Newborn baby covered within overall sum insured
+	•	Newborn/adopted child must be added as dependent within 60 days from birth/adoption.
+	•	Infertility treatment coverage extended to spouse, up to Rs. 40,000 per Policy year.
+Day Care Treatment	Hospitalization coverage applies for admission exceeding 24 hours; no time limit for daycare treatments (as given in Annexure 1).
+Room Rent Applicability – In case hospital specifies the duration of admission and invoices the pro-rated room rent. In such scenarios the approval shall be subject to the prorated rated room rent eligibility. Example : Eligible Day care treatment of 12 hours for an employee with room rent eligibility of INR 5000/day. If the hospital is specifically mentioning 12 hours or half day room rent charges in the invoice, the eligibility for approval becomes INR 2500 for half day.
+Loss of Pay	•	Loss of Pay covered for employees only.
+	•	Eligible limit: Rs. 25,000 per week or weekly gross salary, whichever is lower, for 52 weeks.
+	•	Benefit triggered after employee’s exhaustion of all leaves and on Leave without Pay (LWP) due to critical illness.
+	•	Documentation required from HR Partner certifying absence and leave exhaustion for benefit availing.
+Surgical Treatments
+**Expenses related to any unproven treatment, services, and supplies for or in connection with any treatment. Unproven treatments are treatments, procedures or supplies that lack significant medical documentation to support their effectiveness	•	Stem Cell/related surgery - Covered for all treatment types approved by FDA/ICMR.**
+	•	Bone marrow transplant - Covered for all treatment types approved by FDA/ICMR.**
+	•	Robotic Surgery/Gamma Ray Surgery –
+	•	For cancer treatment within the sum insured limit; other than cancer treatment 50% of sum insured maximum upto INR 5 lakhs
+	•	Cyberknife surgery covered for all treatments
+	•	Cochlear Implant surgery cost covered upto base sum insured limit
+	•	Gender Reassignment Surgery coverage extended to employees with maximum limit as 50% of base sum insured per Policy year.
+Extensions, Injections & Transplants	•	Expenses due to antidotes for animal/dog bites covered
+	•	Donor expenses for transplants up to Rs. 1 lakh for dependents within family sum insured limit
+	•	50% of Hepatitis virus injection charges reimbursed within sum insured
+Ambulance Charges	•	Ambulance charges for emergency hospitalization covered at R. 2,000 per event
+	•	Coverage includes shifting patient from place of incidence to hospital, hospital to residence, and shifting within hospitals as advised by treating hospitals
+	•	Air ambulance charges covered up to Rs. 3 lakhs over and above the Sum Insured (SI) limit
+ 
+ 
+Other Benefits: Non-Hospitalization
+ 
+Category	Benefits Entitled
+Oral Chemotherapy	Payable if approved by FDA and ICMR
+Dental Treatment	For employee, medical insurance covered Spouse* and children* -total available limit is as follows
+	•	Employees with age** less than or equals to  40 years – Limited to Rs. 5,000***
+	•	Employee with age* more than 40 years – Limited to R. 10,000***
+*Only if covered in the base medical policy
+** Age is calculated as on the date of enrolment in policy
+*** The mentioned entitled amount is a part of Base Sum Insured, once utilized the base Sum Insured will be reduced as per the utlisation. Not applicable through Top-up policy.
+Employees can claim the amount they are entitled to, only once in every policy cycle.
+	•	Dental service availed through HCLHealthcare on cashless basis is a part of it and utilizes the limit
+Life-saving injections	Life-saving injections (approved by FDA and ICMR) administered on an outpatient basis covered under the Policy, subject to meeting overall Policy terms and conditions as per the below table*
+Mobility & Disability extensions for Persons-with-disabilities /Coverage for specially abled children	This is covered for employees only. Reimbursements on helping aids, treatment & therapies for specially abled children covered up to INR 25,000 per employee.
+Health Check	For employees only, the total available limit is 
+	•	Below or equals to the age* of 40 years - Limited to INR 2,000
+	•	Above the age* of 40 years - Limited to INR 3,500
+Age is calculated as on the date of enrolment in policy
+** The mentioned entitled amount is part of Base Sum Insured, once utilized the base Sum Insured will be reduced as per the utilization. Not applicable through Top-up policy.
+	•	Employees can claim the amount they are entitled to, only once in every policy cycle.
+	•	Healthcheck service availed through HCLHealthcare on cashless basis is a part of it and utilizes the limit
+ 
+ 
+*Modern Treatments Or Procedures:	Limit
+Uterine Artery Embolization & High Intensity Focussed Ultrasound (HIFU)	20% of Sum Insured Max Rs.2 Lakhs .
+Balloon Sinuplasty	20% of Sum Insured Max Rs.2 Lakhs .
+Deep Brain Stimulation	50% of Sum Insured Max Rs.5 Lakhs .
+Immunotherapy	25% of Sum Insured Max Rs.2 Lakhs .
+Intra vitreal Injections	10% of Sum Insured Max Rs. 75,000 .
+Stereotactic Radio Surgeries	50% of Sum Insured Max Rs.3 Lakhs .
+Bronchial Thermoplasty	50% of Sum Insured Max Rs.2.5 Lakhs .
+Vaporisation of the Prostate (Green laser treatment or holmium laser treatment)	50% of Sum Insured Max Rs.2.5 Lakhs .
+Intra Operative Neuro Monitoring (IONM)	10% of Sum Insured Max Rs.50,000.
+Functional endoscopic sinus surgery	Covered under daycare, payment as per hospital package.
+ 
+Capped Ailment
+ 
+Ailment	Capped Amount (INR)
+Cataract	35,000 per Eye
+Hysterectomy	75,000
+Hemorrhoidectomy / Piles	55,000
+Cholecystectomy (Gall bladder stone removal)	75,000
+Fistulas / Fistulectomy	50,000
+Lasik surgery for eye (employees only)	30,000 per eye
+Infertility (Employees and Spouse)	40,000
+Bariatric surgery (employees only)	200,000
+Knee Joint Replacement	200,000 per Knee
+Hernia / Hernioplasty	80,000
+Hip Replacement	325,000 per Hip
+Coronary Angiogram	22,000
+Multiple sclerosis	20,000
+Note:
+* No Co-Pay is applicable for these ailments.
+* Amount claimed is subject to the capped amount mentioned above.
+* Lasik surgery coverage is available only if the refractive error is greater than +/- 7.
+* Employees and spouse only can avail Infertility treatment coverage
+* Employees only can avail Bariatric surgery coverage
+* Amount claimed is limited by the available/remaining Sum Insured (SI) or the capped ailment amount, whichever is lower.
+Complications from 'Ailments Capped' are confined within the mentioned limits, inclusive of pre and post-hospitalization expenses. These limits are not additional to the Sum Insured.
+Parental SI restriction at 50% of base SI limit for all the employees having INR 5,00,000 and above SI limit.( not applicable to E0 & E1 band employees). – This is applicable to capped ailments as well as the reimbursements will be made upto 50% of the sum insured only.
+Employees who have enrolled in the top-up plans will continue to have a higher coverage up to the Top-up limit after the 50% mark on the base policy in reached.
+Room Rent
+* Eligibility for room rent per day, nursing, and boarding expenses is 1% of Base Sum Insured (excluding top-up) for hospitalizations other than ICU.
+* ICU charges are based on actuals.
+* If the employee or dependents are admitted in a higher category, the difference in room rent and related charges will be borne by the employee on a pro-rata basis. Proportionate deduction will be applicable on all related charges in same proportion to the room rent deduction. Explained in example below. 
+* In case of day permissible day care treatment wherein hospitalization is less than 24 hours - In case hospital specifies the duration of admission and invoices the pro-rated room rent. In such scenarios the approval shall be subject to the prorated rated room rent eligibility. Example : Eligible Day care treatment of 12 hours for an employee with room rent eligibility of INR 5000/day. If the hospital is specifically mentioning 12 hours or half day room rent charges in the invoice, the eligibility for approval becomes INR 2500 for half day.
+Room Rent Enhancement Policy
+* Employees now have the option to enhance their room rent limit from 1x to 1.5x on by paying an additional premium.
+* If opted, the Room Rent coverage will continue till the end of policy period, regardless of employee’s movement between EMCP and GHMI. Mid-term / prorated premium refunds are not applicable.
+Premium Details of Room Rent Enhancement plan for the Insurer Year 2025-26 :
+BASE_SI	Per Family Premium (INR Excluding GST)
+3,60,000	2,327
+5,00,000	3,000
+7,00,000	3,725
+10,00,000	5,276
+15,00,000	7,332
+ 
+Co-Pay
+
+Category	Co-pay w/o Top-up	Reduced Co-pay with Top-up	Reduction in Slab
+Self, Spouse, Children & Siblings	10%	5%	50%
+Parent/In-Laws	20%	15%	25%
+Examples of how co-pay & proportionate room rent deduction is calculated:
+Item	Bill Amount	Payable/Entitlement	Non-Payable	Remarks
+Room Rent	4,800	4,000	800	Difference in room charges
+Medical Accessories /				
+Admission Charges	12,038	11,667	371*	Oxygen accessories, Filter, Cover kit, Gauze, Gloves, Admission charges etc., are non-payable
+OT Charges	15,400	12,834	2,566	Pro-rata deduction: Basic room rent charges, following will be calculation on non-payable charges – e.g. for OT charges 4000/4800*15400 = 12834 & likewise for the other line items
+Consultation	820	683	137	
+Surgeon Charges	63,000	52,500	10,500	
+Total	97,058	82,684	14,374	
+ 
+Scenario	Non-payable Amount by Insurer (INR)	Co-pay Amount (INR)	Amount Payable by Insurer (INR)	Amount Payable by Insured (INR)
+Spouse/Children/Siblings	14,374	8,268.40 (10% of 82,684)	74,415.60	22,642.40
+Parents/Parents-in-law	N/A	16,536.80 (20% of 82,684)	66,147.20	30,910.80
+ 
+Important:
+* In case of planned hospitalization, employees must notify the Third-Party Administrator (TPA) at least 72 hours in advance via MAven Application or call @ 01206937820 or 7026669449
+* Failure to adhere to the above timelines will result in a Co-Pay of 5% being imposed in addition to the normal Co-Pay limits.
+* Co pay is applicable to all the treatments except the capped ailments (list mentioned above)
+ 
+Co-Pay Calculation
+* Co-Pay is applicable on all payable claims unless it is a capped ailment.
+* The admissible claim amount is calculated first, considering non-payable expenses such as non-medical charges, telephone charges, food expenses, etc. These charges are deducted at this stage.
+* A list of non-admissible charges is available in Annexure 3.
+* An illustrative example is provided below (Amount in INR) for an E2 band employee, with hospital intimation done 72 hours in advance. Note that actual circumstances may vary.
+Example:
+* E2 Band Employee
+* Hospital intimation done 72 hours in advance
+Please note that this is an illustrative example, and facts and circumstances may differ from case to case.
+Charge Type	Hospital Bill Amount	Payable / Entitlement	Non Payable	Remarks
+Room Rent	4,800	4,000	800	Difference in room charges
+Medical Accessories / Admission Charges	12,038	11,667	371*	Oxygen accessories, Filter, Cover kit, Gauze, Gloves, Admission charges etc., are non-payable
+OT Charges	15,400	12,834	2,566	Pro-rata deduction; Basic room rent charges, following will be calculation on non-payable charges – e.g. for OT charges 4000/4800*15400 = 12834 & likewise for the other line items
+Consultation	820	683	137	
+Surgeon Charges	63,000	52,500	10,500	
+Total	97,058	82,684	14,374	
+Top-Up Plan
+
+If you believe that additional protection for dependents is necessary from a medical insurance perspective, we've arranged a Top-Up policy option with our Insurance Company at special rates.
+
+Advantages of opting for Top-Up policy
+
+Reduced Co-pay % by enrolling under Top-Up voluntary plan:
+ 
+Category	Co-pay w/o Top-up	Reduced Co-pay with Top-up	Reduction in Slab
+Self, Spouse, Children & Siblings	10%	5%	50%
+Parent/In-Laws	20%	15%	25%
+ 
+* Enhancement of insurance coverage to meet unforeseen medical exigencies.
+* Varied Sum Insured Limits at subsidized premium rates are offered.
+* Top-Up is a portable plan issued in the employee's name, ensuring continuity even if the employee exits the organization before the policy end date, continuing till 30th Sept.
+* Covers all pre-existing ailments from day one.
+* Top-Up Sum Insured opted by the employee will apply to all declared dependents.The insurer will provide a tax exemption certificate for Top-Up premium payment, allowing enrolled employees to claim tax benefits under Section 80D.
+* Top-Up premium is pro-rated. However, no refund of premium, either in part or full, will be issued during the mid-policy cycle.
+* Employees who have enrolled in the top-up plans will continue to have a higher parental coverage up to the Top-up limit after the 50% mark on the base policy in reached
+* If opted, the Top-up coverage will continue till the end of policy period, regardless of employee’s movement between EMCP and GHMI. Mid-term / prorated premium refunds are not applicable.
+ 
+Note:
+* If you enrolled for the Top-Up plan from policy cycle 2023-24 onwards, you'll be locked in the policy until 30th Sept 2026 and automatically enrolled for policy cycles 2023-24 & 2024-25. If not enrolled in policy cycle 2025-26, the option to enrol will only open in policy cycle 2026-27. 
+* Any amount beyond the limit (procedures which are capped) as defined in the GHMI policy cannot be claimed under the OPD or Top-up Policy. Example Cataract related treatment is covered Up to INR 35,000 per eye in Group medical plan. Any expenses incurred beyond INR 35,000 cannot be claimed in OPD or Top-up policy
+Important Policy Reminders
+Missed Declarations: Failure to declare natural additions/deletions within the stipulated timeframe bars employees from adding/deleting such dependents until the next enrollment window in the 2026-27 policy period. Deletion Restrictions: Deletion of dependents within the policy cycle is only permitted for natural events such as demise or divorce. However, if a claim has been made for the dependent within the same policy cycle, deletion is prohibited until the policy end date, i.e., 30 Sept’ 25.
+Any amount beyond the limit (procedures which are capped) as defined in the GHMI/EMCP policy cannot be claimed under the OPD or Top-up Policy. Example Cataract related treatment is covered Up to INR 35,000 per eye in Group medical plan. Any expenses incurred beyond INR 35,000 cannot be claimed in OPD or Top-up policy.
+Premium Details for 2025-2026:
+ 
+Base Policy Sum Insured Limits	Sum Insured & Premium (in INR) without GST					
+3,60,000	3 Lacs	4 Lacs	8 Lacs	12 Lacs	16 Lacs	20 Lacs
+	8,222	8,966	18,797	27,908	35,080	37522
+5,00,000	3 Lacs	5 Lacs	10 Lacs	15 Lacs	20 Lacs	25 Lacs
+	7,603	10,646	22,135	28,091	33,718	37,097
+7,00,000	3 Lacs	7 Lacs	14 Lacs	21 Lacs	28 Lacs	35 Lacs
+	6,089	12,177	21,034	26,131	31,366	34,507
+10,00,000	3 Lacs	10 Lacs	20 Lacs	30Lacs	40 Lacs	50 Lacs
+	5,482	15,947	22,926	33,610	40,331	44,347
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Note:
+All figures mentioned above are annual figures and currency is INR.
+Additional GST will be applicable on premium payable mentioned above.
+Top-Up Exclusions
+The top-up policy becomes effective only after the employee utilizes their base sum insured.
+For example: If an employee's base Sum Insured is INR 7 Lacs and they have opted for a Top-Up of INR 3 Lacs. Let's assume the employee has used INR 4 Lacs during their tenure with HCL Technologies Ltd. Then, their remaining Sum Insured is INR 3 Lacs when they leave. If the employee incurs hospitalization expenses of INR 4 Lacs after leaving HCL Technologies Ltd., they are eligible for INR 1 Lac from the Top-Up Policy. This is because the Top-Up Policy comes into effect only after the employee exhaust their remaining Sum Insured (INR 3 Lacs in this case).
+Any amount beyond the limit (procedures which are capped) as defined in the GHMI/EMCP policy cannot be claimed under the OPD or Top-up Policy. Example Cataract related treatment is covered Up to INR 35,000 per eye in Group medical plan. Any expenses incurred beyond INR 35,000 cannot be claimed in OPD or Top-up policy
+Premium Contribution
+The premium contribution for insurance coverage is divided into four plans, with employees having the option to select their medical plan coverage. The premium contributions towards various insurances facilitated by HCL are as follows: 
+Plan Category	2025-26* Insurances Covered	Premium Contribution
+A (Self)	Medical, Life & Disability	70%
+B (Spouse)	Medical	20%
+C (Per Child)	Medical	10%
+D (Per Parent / In-laws)	Medical	55%
+E (Per Sibling)	Medical	30%
+Notes:
+* All employees are automatically covered under Plan A. Employees have the option to choose additional coverage from Plans B, C, D, and E.
+* Premium contributions are based on percentages of the 'Insurance & Medical Benefits' component of the employee's compensation structure.
+* Basis the plan / dependent selection the employee is required to adjust the Flexi component and allocate the required amount accordingly
+* In case of inadequate or no flexi declaration, only self (Plan A) shall be applicable.
+OPD/Domiciliary Plan Overview
+
+1. OPD plan provides coverage for various medical expenses incurred outside of hospitalization.
+2. Domiciliary benefit can be opted for dependents categorized under Parent or Non-Parent categories.
+3. Enrolment Guidelines:
+* OPD plan can only be opted for at the policy cycle's start or during the declaration window.
+* Mid-policy enrolment for natural additions is not permitted.
+4. Any amount beyond the limit (procedures which are capped) as defined in the GHMI/EMCP policy cannot be claimed under the OPD or Top-up Policy. Example Cataract related treatment is covered Up to INR 35,000 per eye in Group medical plan. Any expenses incurred beyond INR 35,000 cannot be claimed in OPD or Top-up policy
+ 
+5. Advantages of Opting for OPD Policy:
+* Coverage includes expenses for doctor's fees, medical check-ups, dental, hearing aids, and spectacles.
+* OPD policy is portable until 30th Sept if the employee exits the organization.
+* The insurer provides tax exemption certificate for OPD premium payment under Section 80D.
+* The policy premium and sum-insured limit are applicable from the date of joining until the policy end date (30th September 26).
+6. Lock-in Period:
+
+Enroled for OPD plan from policy cycle 2023-24 onwards:
+* Locked in till 30th Sept’ 26.
+7. Options and Denominations for Policy Cycle 2025-26
+If you have enrolled for the OPD plan from policy cycle 2023-24 onwards, you will be locked in the policy till 30th Sept 2026 and auto-enrolled for policy cycles 2024-25 & 2025-26. If not enrolled in policy cycle 2023-24, then the option to enroll would only open in policy cycle 2026-27.
+Below are the various options and the negotiated denominations in which this benefit can be availed for the 2025-26 policy cycle.
+Benefit Category / Benefit Level		Non-Parents			Parents		
+		Option 1	Option 2	Option 3	Option 1	Option 2	Option 3
+Prescribed* - Pharmacy/Medicines / Doctor’ Fee’s for any consultation/session /Physiotherapy /AYUSH consultation / Child Vaccinations. Procedure fee or any type of procedures fees paid during an OPD consultation/ Cosmetic treatment therapeutic in nature (requiring treatments) would be covered		14,000	20,000	26,000	11,000	15,500	18,500
+Prescribed* Investigations/Preventive Health Check-up (No Prescription for Preventive Health Check-up)		4,000	4,000	4,000	4,000	4,000	4,000
+Prescribed* Dental Procedure/ Spectacles/ Hearing Aid/Hair Implant/Dietician		8,000	11,000	14,000	11,000	15,500	21,500
+Total OPD Sum Insured Limit (INR)		26,000	35,000	44,000	26,000	35,000	44,000
+Options	Coverage	Premium	Premium	Premium	Premium	Premium	Premium
+A	One parent Premium	NA	NA	NA	9,767	12,819	16,244
+B	2 parents Premium	NA	NA	NA	12,299	16,141	20,454
+C	1 Life	6,772	8,863	11,203	NA	NA	NA
+D	2 Lives	7,900	10,340	13,073	NA	NA	NA
+E	3 Lives	8,690	11,373	14,380	NA	NA	NA
+F	4 Lives	9,593	12,554	15,874	NA	NA	NA
+G	5 Lives	10,264	13,434	16,986	NA	NA	NA
+H	6 Lives	10,935	14,313	18,096	NA	NA	NA
+I	7 Lives	11,608	15,191	19,206	NA	NA	NA
+J	8 Lives	12,299	16,141	20,454	NA	NA	NA
+*Prescription Details:
+* Kindly note that the prescription date (wherever applicable) will be considered for the calculation of the OPD claim submission timeline, hence, you are advised to take this into account when planning your OPD claim submissions.” e.g., for the prescription Dt 1st April having supporting medicine bills Dt. 4th April, 45 days will be calculated from 1st April and not from 4th April
+* All services prescribed must be completed within 45 days from prescription date.  
+* Additionally, for chronic ailments that require long-term medication, such as for conditions like blood pressure, diabetes, and heart-related issues, the validity of the prescription is set for 90 days. After this period, the claimant must consult their doctor again to obtain a fresh prescription to claim for any subsequent medicine or related bills claimable under OPD policy.
+* However, if the doctor specifies a duration for medication that exceeds 90 days on the prescription itself, there will be no need for a fresh prescription, and the original prescription will be sufficient for the settlement of the medicine bills.
+* Doctor’s stamp/Doctor’s qualification with registration number is mandatory for a valid prescription
+* Medicine Invoice shall have invoice no., date, merchant name, GST no, batch and expiry date of medicine in it, else invoice won’t be considered as valid
+* Lab report must be duly signed by radiologist/Pathologist/concerned doctor.
+* Vaccination - WHO-approved vaccine for children as per the Vaccination card Up to the age of 5 years are covered
+Please Note:
+* All figures mentioned above are annual figures, and the currency is INR.
+* Additional GST will be applicable on the premium payable mentioned above.
+* The annual premium will be applicable for new joiners irrespective of joining dates.
+* The premium for OPD will not be pro-rated from the date of joining, and employees can claim reimbursements up to the sum insured of their opted plan(s).
+* No premium refunds, either part or full, will be made for members enrolled under OPD plans during the mid-policy cycle in case of mid-term deletion of enrolled dependent from the base policy due to demise or divorce.
+* If opted, the OPD coverage will continue till the end of policy period, regardless of employee’s movement between EMCP and GHMI. Mid-term / prorated premium refunds are not applicable.
+Exclusions Under the Policy
+1. Food Supplements or Dietary Pills (Example Horlicks Glucose Whey Protein etc.)
+2. Dietary supplements and substances that can be purchased without prescription including but not limited to Vitamins minerals and organic substances unless prescribed by a medical practitioner as part of treatment
+3. All non-medical expense or standard deductions incurred during inpatient hospitalization or day-care treatments will not be covered under OPD Policy
+4. Any amount beyond the limit (procedures which are capped) as defined in the GHMI policy cannot be claimed under the OPD or Top up Policy. Example Cataract related treatment is covered Up to INR 35,000 per eye in Group medical plan. Any expenses incurred beyond INR 35,000 cannot be claimed in OPD or Top up policy
+5. Over the counter (OTC) medicines are not covered
+6. Medicines purchased without doctor’s prescriptions are not covered
+7. Consultation given by Non-Allopathic Doctor (Crosspathy claims not payable) – AYUSH consultation and medication both are covered. However, crosspathy i.e., homeopathy doctor prescribing allopathy medicine will not be covered.
+8. All cosmetic related consultations or diagnostics and medicines (unless called out in inclusion) are not covered. Cosmetic Surgery or Treatment means surgery or medical treatment solely or primarily to improve or preserve physical appearance but not physical function or treatment of an underlying ailment or conditions (Example - Chemical peel treatment Laser hair removal and others. The exact nature of the procedure will be determined by program administrators at the time of processing the claim
+9. Expenses related to any treatment necessitated due to participation in hazardous or adventure sports not covered unless performed under expert supervision-, Self-inflicted injuries are exclusion
+10. Treatments received in health hydro’s nature cure clinics, spas or similar establishments
+11. Treatment for Alcoholism drug or substance abuse
+12. Consultation for any kind of certification/fitness/without diagnosis is not covered
+13. Consultations treatment and expenses related to Change of Gender are not covered
+14. Naturopathy and related treatments/expenses are not covered. Consultation for Ayush is only payable
+15. Dental Braces, Aligners, Scaling and polishing shall be considered as cosmetic, unless treating dentist has mentioned presence of abnormality (bleeding gums, bone loss) – Any dental treatment pure cosmetic in nature would not be covered. Treatment for any abnormality e.g., bleeding gums, bone loss etc would be covered as per the defined sublimit of the policy.  
+16. Prenatal can be processed before hospitalization under OPD with self-attestation on documents submitted as "claimed with ABHI"
+17. Treatment for alopecia, hair fall, greying of hairs, baldness, wigs, or toupees, acne, vitiligo and all treatment related to the same are not covered if cosmetic in nature. Treatment only non-cosmetic in nature would be covered under Dr Consultation and Medicine sub limit of the policy
+18. Dermatologists’ charges will get paid as per defined sub limit only if treatment is non-cosmetic in nature
+19. Dietician, Nutritionist fees etc. not payable
+20. Pre-Post Hospitalization expenses are excluded if claimed under group Mediclaim policy – claimed value over and above the IPD limits are to be covered under OPD policy post confirmation on SI exhaustion in IPD policy
+21. Non Child vaccinations (Only WHO-approved vaccine for children as per the Vaccination card Up to the age of 5 years are covered
+22. Any OPD claim documents beyond 45 days from service availed date would not be considered by insurer for reimbursement
+Other Exclusions –
+* Cost of Frames or Spectacles if not prescribed - Ophthalmologists/Optometrist certificate would be considered.
+* Cosmetic lenses and procedures excluded.
+*  Any cosmetic procedures.
+* Any kind of pharmacy expenses if not prescribed.
+* Protein shakes and other supplements even if prescribed.
+* IVF infertility related treatment
+* Cataract or Lasix Surgery
+* Day care treatment list of IPD cover
+* Advance receipt or co-pay or Daycare or IPD deductions.
+* GST Charges on any invoice (service / medicine / equipment) will not be payable 
+Policy Principle and Exclusions
+
+Fraudulent Claims: If an employee is found guilty of making fraudulent claims under the Medical Insurance Policy and/or violates the Company's Code of Conduct, appropriate disciplinary action, including termination of employment, shall be taken against such employee. This is in accordance with the procedures set out in the Company’s ‘Code of Business Ethics and Conduct’ (COBEC) policy, which is available in the Policies Hub portal.
+
+Principle: The Medical Insurance policy covers expenses (excluding non-medical items as specified in Annexure 3) deemed "reasonable" during the hospitalization of any dependent. Within the available treatment alternatives, the policy reimburses or pays for the most reasonable option. If an employee or dependent chooses a treatment option beyond the reasonable option, the difference in cost must be borne by the employee. 
+
+Example: The following table illustrates treatments with multiple available options, indicating a range of costs for each treatment. Note that the treatments listed below are for example purposes only and the list is not exhaustive.
+
+Treatment	Cost Range
+Unifocal	INR 18,000 - 29,000
+Multifocal	INR 35,000 - 60,000
+TURP (Transurethral Resection of the Prostate)	INR 50,000 - 80,000
+Laser Treatment	INR 90,000 - 1.5 Lakh
+Lap Cholecystectomy	INR 50,000 - 1.2 Lakh
+Robotic Cholecystectomy	> INR 2.5 Lakhs
+ 
+The Company shall not be liable to make any payment under this policy unless they are specifically covered under the policy in respect of any expenses whatsoever incurred by any Insured Person in connection with or in respect of:
+* Injury or disease directly or indirectly caused by or arising from or attributable to War, Invasion, Act of Foreign Enemy, War like operations (whether war be declared or not) or by nuclear weapons / materials.
+* Circumcision (unless necessary for treatment of a disease not excluded hereunder or as may be necessitated due to any accident), vaccination, inoculation or change of life or cosmetic or of aesthetic treatment of any description, plastic surgery other than as may be necessitated due to an accident or as a part of any illness.
+* Lucentis / Avastin injections are not payable.
+* Treatment which is continued before hospitalization and continued during and after discharge for an ailment / disease / injury different from the one for which hospitalization was necessary.
+* Convalescence, general debility, “run down” condition or rest cure, congenital external diseases or defects or anomalies, sterility, venereal diseases, intentional self-injury/suicide, all psychiatric and cosmetic disorders and diseases / accident due to and or use, misuse or abuse of drugs / alcohol or use of intoxicating substances or such abuse or addiction etc. Psychiatric treatments are payable for employees only.
+* All expenses arising out of any condition directly or indirectly caused by, or associated with Human T-cell Lymphotropic Virus Type III (HTLD - III) or Lymphadenopathy Associated Virus (LAV) or the Mutants Derivative or Variations Deficiency Syndrome or any Syndrome or condition of similar kind commonly referred to as AIDS, HIV and its complications including sexually transmitted diseases.
+* Charges incurred at Hospital or Nursing Home primarily for diagnosis x-ray or Laboratory examinations or other diagnostic studies not consistent with or incidental to the diagnosis and treatment of positive existence of presence of any ailment, sickness or injury, for which confinement is required at a Hospital / Nursing Home or at home under domiciliary hospitalization as defined.
+* Expenses on vitamins and tonics etc. unless forming part of treatment for injury or disease as certified by the attending physician.
+* Any Treatment arising from or traceable to pregnancy, childbirth, miscarriage, caesarean section, abortion or complications of any of these including changes in chronic condition as a result of pregnancy.
+* Naturopathy treatment, unproven procedure or treatment, experimental or alternative medicine and related treatment including acupressure, acupuncture, magnetic and such other therapies etc.
+* Expenses incurred for investigation or treatment irrelevant to the diseases diagnosed during hospitalization or primary reasons for admission. Private nursing charges, Referral fee to family doctors, out station consultant’s / Surgeons fees etc.
+* Doctor’s home visit charges, Attendant / Nursing charges during pre and post hospitalization period.
+* External and or durable Medical / Non-medical equipment of any kind used for diagnosis and or treatment including CPAP, CAPD, Infusion pump etc., Ambulatory devices i.e. walker, Crutches, Belts, Collars, Caps, splints, slings, braces, Stockings etc. of any kind, Diabetic foot wear, Glucometer / Thermometer and similar related items etc. and also any medical equipment which is subsequently used at home etc.
+* All non-medical expenses including Personal comfort and convenience items or services such as telephone, television, Ayah / barber or beauty services, diet charges, baby food, cosmetics, napkins, toiletry items etc., guest services and similar incidental expenses or services etc.
+* Change of treatment from one system of medicine to another system of medicine unless being agreed / allowed and recommended by the consultant under whom the treatment is taken.
+* Any treatment required arising from Insured’s participation in any hazardous activity including but not limited to scuba diving, motor racing, parachuting, hang gliding, rock or mountain climbing etc. unless specifically agreed by the Insurance Company.
+* Any treatment received in convalescent home, convalescent hospital, health hydro, nature care clinic or similar establishments.
+* Any stay in the hospital for any domestic reason or where no active regular treatment is given by the specialist.
+* Outpatient Diagnostic, Medical and Surgical procedures or treatments, non-prescribed drugs and medical supplies, Hormone replacement therapy.
+* Massages, Steam bathing, Shirodhara and alike treatment under Ayurvedic treatment.
+* Service charges, Surcharges, Admission fees / Registration charges etc. levied by the hospital. 
+
+
+Process
+
+
+ 
+ Enrolment Guidelines
+1. Lock-in Period: There is a 3-year lock-in period until September 30th, 2026, for all dependents declared during enrollment in the policy cycles of 2023-24 and 2024-25. Exceptions are allowed only for life-changing events such as marriage, divorce, childbirth, or parents' retirement.
+2. Top-up and OPD Coverage: Employees who opted for Top-up and/or OPD coverage during the open enrollment window in policy cycles of 2023-24 and/or 2024-25 are also locked in until September 30th, 2026. Those who did not enroll have no option to opt-in for these plans until the end of the lock-in period. The next opportunity to enroll will be provided in the 2026-27 policy cycle.
+3. New Joiners: New employees can declare their dependents and/or opt for Top-up & OPD policy within 21 days of joining HCLTech in the Benefit Portal. The premium payable for the medical policy & Top-up policy will be pro-rated from the date of joining till the policy end date, i.e., September 30th, 2026. The OPD policy premium will not be pro-rated; the policy will be applicable from the date of joining till the policy end date, i.e., September 30th, 2026. Since the policy premium is not pro-rated, the sum-insured limit is also not pro-rated. 
+4. Transferred Employees: Employees transferred onsite can opt for EMCP in the Benefits Portal for dependents residing in India, provided they have already declared them by selecting "Yes" in their TMS in the EMCP section. The premium payable for EMCP will be pro-rated from the date of transfer till the policy end date, i.e., September 30th, 2026.
+ 
+Important Note:
+
+1. Missed Declarations: Employees must declare any natural additions or deletions within the stipulated time frame. Failure to do so will result in the inability to add/delete such dependents until the next enrollment window opens in the policy period of 2026-27.
+2. Deletion of Dependents: Deletion of dependents within the policy cycle is only permitted for natural deletions such as demise or divorce. However, if a claim for the dependent has been made within the same policy cycle, deletion will not be allowed until the policy end date, i.e., September 30th, 2026.
+ 
+Contact Details for Cashless Request:
+
+1. Advance Notification: All employees are required to inform the Third Party Administrator (TPA) at least 72 hours before planned hospitalization.
+2. Helpline Numbers:
+01206937820
+3. App / Whatsapp Notification
+* All employees should /must inform TPA 72 hours before a planned hospitalization. The intimation can be provided through Maven App or by sending a  “Hi” whatsapp message @ 7026669449
+Failure to follow the notification process for planned treatments will result in an additional Co-Pay of 5% imposed over and above the Co-Pay limits mentioned in the policy section.
+
+Cashless Network Hospitals List
+To access the list of hospitals under MediAssist TPA, please follow the steps below:
+* Download the MAven App
+* Visit MYHCLTech >> My Benefits Portal >> Medical Claims >> Hospitalisation Services >> Network Hospitals
+Please note that this list is subject to periodic revisions.
+
+Additionally, for all claims, whether cashless or reimbursement, they must be submitted within 45 days from the date of expense incurred or the date of discharge from the hospital in case of hospitalization.
+￼
+II Submit a Physical copy
+* Go to https:// myhcltech.com and log in.
+* For claims pertaining to policy year 2025-2026
+    * Navigate to "My Benefits Porat”
+    * Click on "Medical Claims”
+    * Click on “Hospitalisation Services”
+    * Go to “Raise a Claim”
+    * After completing the online form, submit your claim.
+    * Print out the claim documents.
+    * Staple the printed claim documents together.
+    * Drop the stapled claim documents into the MediAssist Medical Hospitalization Drop Box located in your facility.
+Please raise SSD for any assistance
+To request assistance related to HR benefits and policy clarification for medical insurance programs, follow these steps:
+* Hospitalisation Related - MyHCLTech > My Benefits Portal > Medical Claims > Hospitalisation Claim > Raise a Query
+* Hospitalisation Related (Claim for the period 2025-2026) - Contact the 24/7 Helpdesk at 01206937820 for assistance.
+* OPD Related - MyHCLTech > My Benefits Portal > Medical Claims > OPD Claim > Raise a Query
+* Alternatively - For more information on OPD services, connect to Employee Care at:
+* 1800-103-7070  | customerexperience@hcl.com or WhatsApp chat at +91-9311667775
+Enclosed in the Annexure Section on the Policy Portal:
+* Annexure 1: Day Care Procedures
+* Annexure 2: Critical Illness
+* Annexure 3: List of Non-Admissible Expenses
+* Annexure 4: Delisted Hospitals
+* Annexure 5: Standard Definitions
+* Annexure 6: Claims Form for Separated Employees
+Process for Dependent Declaration and TOP UP/ OPD Plan/ Room Rent Enhancement Limit
+* Log into My HCL > Benefits Portal > Group Health Medical Insurance > Initiate Enrollment or Medical Dependent Declaration.
+* Add your dependents in the columns provided along with Gender, Relation, DOB, and Marital Status. Self-Details are picked by default hence no need to add self as a dependent.
+* Click on the Save button once dependents are added.
+* Review your declared dependents as part of reconfirmation.
+* Allocate the relevant amount at Flexi Portal
+* Dependents will not be enrolled until you submit the required Medical Component at Flexi Portal
+* Premium for Top-Up and/or OPD plans and/or Room Rent Enhancement Limit opted by the employee will be recovered as a one-time deduction for annual coverage from their upcoming month payroll.
+* Employees who do not wish to take the TOP UP/ OPD plan / Room Rent Enhancement Limit just need to submit their dependents on Benefits Portal > Medical Dependent Declaration and log out.
+* GHMI is optional for ESI employees. If they still want to take GHMI in addition to ESI, they need to click on the checkbox enabled for them as part of their consent. Applicable premium for GHMI coverage will be recovered from them in addition to ESIC premium contribution.
+Retiring employees:
+* For employees retiring during the policy period 2025-26 They must raise a Smart Service Desk (SSD) request to inform about their coverage in the policy at least 2 weeks before retirement. Employee should also make premium payment before LWD to continue medical policy.
+Claim Process - Health Check-up / Cervical Cancer Vaccination
+* Submit all General / Master / Executive / Comprehensive Health check-up claims through the Maven App
+* Attach the bills and reports in original with the printout of the Claim form for expenses incurred and put it in the Mediclaim drop box in your facility.
+* Clearly mention on the envelope - Proactive Health Check-up or Cervical Cancer Vaccination.
+Employee SAP Code & Employee Name. Claimed Amount
+Natural addition/deletions of dependents within policy period: Employees have to raise SSD (in the navigation path mentioned) 
+
+Claim Process – Day Care Procedures:
+* To claim hospitalization expenses, a minimum period of 24 hours of hospitalization is required.
+* However, the time limit does not apply to day care surgeries where the insured is discharged on the same day. The list of such day care surgeries is given in Annexure 1.
+* Day Care Surgeries are treatments that necessitate hospitalization, involve specialized infrastructural facilities available in hospitals, and require hospitalization for less than 24 hours due to technological advances.
+* Bills for hospitalization expenses submitted are to be accompanied by the following documents:a.     Original Discharge summary b.     Presenting Illness c.     Treatment given/course during hospitalization d.     Date & Time of admission & discharge e.     Diagnosis FIR/MLC/AR should be attached in case of an accident f.      Original Hospital Main Bill/IP bill/Final bill g.     Original payment receipts made to the hospital h.     Original Medicine Bills i.       Original Reports/Tests (except X-Ray/CT Scan/MRI films) j.       Original Bills of reports/Tests k.     Breakup details for hospitalization Final bill l.       Signed Print out of the Claim Form
+* Staple all the supports carefully to ensure there is no loss in transit.
+* While there is no defined category of approved hospitals & nursing homes for this purpose, it is recommended that employees use reputed hospitals or at least one with a minimum capacity of 15 beds, as such hospitals then necessarily have to comply with certain minimum infrastructural and other necessary standards.
+* Claims from Delisted hospitals will not be entertained (List of such hospitals is provided in Annexure 5).
+* The hospitalization expenses pertaining to employees or dependents will be reckoned from the “date of admission” to the hospital and not the date of discharge from the hospital. Accordingly, the claims will be honored during the transition period from one policy to another (e.g., If an employee or dependent(s) are admitted to the hospital on or before September 30, 2025, and get discharged by the first week of October 2025, the claim is sustainable under the old policy cycle of 2023-24 and does not come within the purview of the current policy).
+* Employees will be allowed to claim the refund under this category only once in a policy cycle. Hence, bills and prescriptions of expenses incurred under the definition of this category need to be preserved so that the same can be submitted while claiming. The current claim cycle is October 1, 2025, to September 30, 2026.
+Procedure for Planned Cashless Hospitalization
+
+Employees must adhere to the Planned Hospitalization guidelines and inform the TPA 72 hours prior to admission. Failure to follow this process may result in an additional co-pay of 5% imposed over and above the co-pay limits mentioned in the policy section.
+1. To inform the TPA 72 hours in advance regarding Planned Hospitalization:
+* Claim intimation can be done via MAven Portal/App by clicking Submit Intimation tab or following link: https://maven.mediassist.in/intimation
+* All employees should /must inform TPA 72 hours before a planned hospitalization. The intimation can be provided through Maven App or by sending a  “Hi” whatsapp message @ 702669449
+* Call the dedicated toll-free number for HCLtech: 0120-6937820
+2. E-Cards for insured individuals will be made available within 7-10 working days post-closure of the open enrollment window period of 21 days for a new joiner in HCLTech.
+3. Cashless Facility is provided by the TPA for hospitalization treatments in the panel of hospitals listed with the insurer.
+4. It is recommended that insured individuals carry their Medical E-Card.
+5. At the time of hospitalization at a network hospital:
+* Produce the E-Card as proof of being covered by health insurance along with a government-issued photo ID (e.g., AADHAR Card, Ration card, Driving license, Voted ID card, etc.).
+* Kindly fill the pre-authorisation request form with the help of the hospital TPA desk or the duty doctor. On receipt of the claim form & initial medical documents from the hospital, Medi Assist processes the pre-authorisation request to determine coverage.
+6. If coverage is available, MediAssist issues a Preauthorization approval to the hospital, entitling the insured individual to avail cashless facility at the hospital.
+7. At the time of discharge, check and sign the original bills and discharge summary. Keep a copy for reference.
+8. Non-Medical Expenses & co-payment in the bill must be paid before discharge.
+9. In case the preauthorization request cannot be approved, settle the hospital bill in full.
+10. In GIPSA cities, cashless facility will be available in ALL NETWORK HOSPITALS of the TPA, not just GIPSA hospitals.
+11. The Company /TPA reserves the right to deny pre-authorization if relevant information / medical details are not provided.
+12.In case of an emergency, the E-Card can be shown at the network hospital to avail a cashless admission facility. The preauthorisation request can be sent to Team Medi Assist within four hours after admission.
+13. In case of Emergency situations when E-Card is not generated, connect with TPA and provide your details for further assistance.
+ 
+￼
+ If opting for a "reimbursable" mode for claims, the following procedure applies (Documentation requirements are common for availing Cashless Facility as well) 
+* Hospitalisation for the policy period 24-25 – claim to be raised at Medical Portal and submitted to Vidal till 30th Nov 25
+* OPD claim for the period 24-25 – online claim to be raised at Vidal’s portal by uploading all bills/prescription etc. with-in 45 days of service availed date – no need of physical document submission.
+* Hospitalisation for the period 2025-26 –
+    * Reimbursement claim amount <1Lac – online claim to be raised at Medi Assist portal by uploading all requisite documents– no need to submit physical documents.
+    * Reimbursement claim amount >1Lac – online claim to be raised at Medi Assist portal by uploading all requisite documents –physical documents along with claim form printed from Medi Assist portal to be dropped in Medical Boxes kept at HCLTech premises or to be sent to Medi Assist claim processing centers.
+* OPD claim for the period 2025-26 – online claim to be raised at Habit App/portal by uploading all requisite documents with-in 45 days of service availed date – no need to submit physical documents.
+Reimbursement Claim Process Details :
+* Hospitalization Paperless claims for claims value upto 1 lacs
+* Submit the claim online via the Maven Portal/App.
+* Download the claim form upon completion.
+* The guided claim submission process will provide clarity on the required documents.
+* Employees must upload/share all mandatory documents along with the signed claim form through the Maven App or Medi Assist Portal to process the claim.
+Reimbursement claims more than value of 1 lacs
+* For claims pertaining to policy year 2025-2026
+    * Navigate to "My Benefits Porat”
+    * Click on "Medical Claims”
+    * Click on “Hospitalisation Services”
+    * Go to “Raise a Claim”
+    * Attach any relevant documents as necessary.
+    * After completing the online form, submit your claim.
+    * Print out the claim documents.
+    * Staple the printed claim documents together.
+    * Drop the stapled claim documents into the MediAssist Medical Hospitalization Drop Box located in your facility
+* Norms of Prescription: Prescriptions should preferably be on the Doctor’s or Institution’s letterhead. The registration number of the signing doctor should be legible. A signature of the Doctor, not below the rank of MBBS or equivalent, is mandatory.
+* Original Bills, reports to be submitted: All bills & reports must be in original. Photocopies will not be accepted. It is mandatory to produce all bills, Diagnostic reports, Discharge summaries, and Reports of investigations in original.
+* All medical claims in case of Hospitalization should be submitted within 45 days from the date of discharge from the hospital. Claims not submitted within this period will not be considered for payout by the Insurance Company.
+* In GIPSA cities, reimbursement claims will be settled as per policy terms and conditions and NOT ON ANY GIPSA rate which could prevail.
+* Bills for recommended investigations must be accompanied by the doctor’s prescription as well as the report of the investigation.
+* Reasonableness of claims: The policy does not prescribe too many limits on amounts that can be claimed. However, the Insurer and HCL have the right to question a claim if the amount claimed is evidently disproportionate to the services rendered. Observations in this regard will be referred to a medical consultant appointed by the Company.
+* Denied/Repudiated claims: Bills pertaining to denied/repudiated claims would be returned by TPA to the employee and should be the responsibility of implementing the above terms of policy rests with the Insurer and the HR Head.    
+Claims Process for OPD 
+* To raise claims under OPD, kindly submit the original claim papers/bills within 45 days of the bill date on Habit App by HCL Healthcare.
+* Alternatively for more information on OPD services, connect to Employee Care at: 1800-103-7070  | customerexperience@hcl.com or WhatsApp chat at +91-9311667775
+Claim Process – DAY CARE Procedures under Top-up
+* Employees or dependents may courier the original bills and reports to the 'Claim Reimbursement SPOC' and specify the following details on the envelope:
+* Mention on the top of the envelope – GHMI Top-Up/ OPD Claim Reimbursement.
+    * Employee SAP Code & Employee Name.
+    * HCLTech mail ID.
+    * Total Claim Amount.
+    * Claim Number.
+* The status of the claim will be updated through auto mailers to the employee, and the nominated person by the employee will be informed or updated through a phone call by the 'Claim Reimbursement SPOC'.
+* Below are the various scenarios once the claim is submitted online by the employee and the courier is received by the 'Claim Reimbursement SPOC':
+    * Claim Received and in Process: No shortfall or clarification is required to process the claim.
+    * Referred Back: Shortfall or clarification is required against the documents submitted.
+* Reimbursement of all claims will be credited only to an India Bank Account.
+Claims Process for Separated Employees
+Note: If an employee exits from HCL, the following procedures apply:
+* The EMCP premium will be refunded on a pro-rata basis, and coverage under EMCP base plan will cease after the employee’s last working day in HCL.
+* The premium for voluntary Top-Up and OPD plans opted by the employee shall not be refunded. However, the coverage of the employee would continue throughout policy cycle 2025-26.
+* The coverage will remain active till the last day of the policy period i.e., 30th Sept’26, and employees can reach out to TPA to raise claims for the policy cycle, in spite of their exit from HCL.
+* There will be no refund on the voluntary Top-Up and OPD premium.
+Claims Process for OPD - for Separated Employees
+To raise claims under OPD, kindly submit the original claim papers/bills within 45 days of the ybill date on Habit App by HCL Healthcare.
+* Alternatively for more information on OPD services, connect to Employee Care at: 1800-103-7070  | customerexperience@hcl.com or WhatsApp chat at +91-9311667775
+Claims Process for Top-Up - for Separated Employees
+* A claim under the Top-up policy will trigger only if your total payable claim amount, either in a single event or the sum of multiple claims during the same policy period, is more than the base Sum Insured limit as per the HCL band.
+* The Top-up policy will pay the payable claim value over and above the base Sum Insured limit eligibility as per the HCL band only. For example, an employee eligible for INR 5 Lacs base Sum Insured limit as per HCL band can file a claim for the payable claim amount (Claim amount – Non-payable expenses e.g., Co-pay, non-medical expenses etc.) over and above INR 5 Lacs only under the HCL Top-up policy.
+* In a claim of INR 8 lacs, if the payable claim amount is INR 7 Lacs (INR 8 Lacs - Non-payable expenses e.g., Co-pay, non-medical expenses etc.), then the employee must settle the first 5 lacs, which is the base Sum Insured limit as per the HCL band and works as a threshold limit for the Top-up policy from any other personal/corporate policy or out of his/her pocket, and the remaining 2 lacs i.e., 7-5 =2 will be picked by the HCL Top-up policy.
+* For the calculation of the threshold limit, if not breached in a single claim and previously during the same policy period, multiple hospitalizations have taken place for the same family members as covered under the HCL policy, then the sum of the payable claim value of these previous hospitalizations will be considered to calculate the threshold limit.
+* If there are multiple hospitalizations involved to touch the threshold limit, then kindly provide the bill details and settlement details of previous hospitalizations as well to the TPA along with the main claim papers to calculate the threshold limit.
+* Claim settlement would be done as per HCLTech policy terms and conditions only.
+* The employee is supposed to report this claim to TPA at the below-mentioned address along with the settlement sheet/payment details of the primary claim and a photocopy of all the claim papers duly attested by the TPA of the primary claim.
+* If primary claim is not claimed under any policy and employee has paid the same out of his/her pocket, then all the original papers need to be submitted for the payment of remaining amount from the Top-up policy.
+Noida Office Address	Bangalore Office Address	Chennai Office Address
+Medi Assist Insurance TPA Pvt. Ltd. 1st Floor, G M Tower, D-7, sector-3, Noida - 201 301	Medi Assist Insurance TPA Pvt. Ltd. Tower D, 4th Floor, IBC Knowledge Park, 4/1 Bannerghatta Road, Bangalore - 560 029	Medi Assist Insurance TPA Pvt. Ltd. 2nd Floor, RWD Atlantis Building, 24, Nelson Manickam Road, Opp. Shobhan Babu Statue, Aminjikarai,
+Duly filled and signed copies of the IRDAI claim form, ECS form, and cancelled cheque copy would also be required along with the other documents as mentioned above. 
+ 
+ 
+
+
+
+
+Revision History:
+ 
+Version	From	To	Description	Author	Approved By
+1	09-Dec-21	30-Oct-21	First Copy	HR Policy & Compliance CoE	HR Policy & Compliance CoE Head
+2	01-Oct-21	30-Sep-21	Revision	HR Policy & Compliance CoE	HR Policy & Compliance CoE Head
+3	01-Oct-21	30-Sep-21	Revision	HR Policy & Compliance CoE	HR Policy & Compliance CoE Head
+4	01-Oct-21	30-Sep-22	Revision	HR Policy & Compliance CoE	HR Policy & Compliance CoE Head
+5	05-May-23	30-Sep-23	Revision	HR Policy & Compliance CoE	HR Policy & Compliance CoE Head
+6	17-Oct-23	30-Sep-24	Revision	HR Policy & Compliance CoE	HR Policy & Compliance CoE Head
+ 
+ 
+
+
+FAQ
+
+
+Q1. Is there any website or application to Track Clam Status, Download Ecards and other policy related details
+A1. To download mobile Application navigate from below path: - For Android user- https://play.google.com/store/apps/details?id=in.mediassist.malite&hl=en_IN&pli=1 For IOS users - https://apps.apple.com/in/app/MAven-borderless-benefits/id1658508539
+Note - Please refer to the welcome mailer from Medi Assist for the login credentials
+Q2. Where can I submit the hard copies of mandatory claim payout?
+A2. If the Approved amount is above 1 Lacs, Need to submit the hard copy of all original documents (except address proof) along with the reimbursement claim form downloaded from MAven.
+Collate all the documents (whatever is applicable) and drop it in the Medical Hospitalisation drop box available at HCL offices situated in Noida, Bangalore, Kolkata, Mumbai, Pune, Hyderabad, Chennai, Madurai, Lucknow & Chandigarh
+This can also be couriered at the nearest MediAssist office. Click the following link for Medi Assist office Locations : https://mediassisttpa.in/contact
+Q3. What is the process for the Returning of Documents?
+A3. For Rejected claims - We take requests from employees and return the documents. The TAT is 7 to 8 working days from the date of request.
+For Approved claims only non-financial documents or unpaid bills can be returned provided with an affidavit which confirms that the employee will not claim anywhere else with these documents. The TAT is 7 to 8 working days
+Q4. Is Functional endoscopic sinus surgery is covered under our policy or not?
+A4. It is covered under daycare and the payment is made as per hospital package. There is no capping in HCLTech policy.
+Q5. Is Occupational Therapy and speech therapy covered under our Insurance Policy?
+A5. Occupational Therapy and Speech Therapy are covered under Basic Pay for 25k.
+Q6. Are Pacemaker Operation and Total Teeth replacement covered or not?
+A6. Pacemaker Operation is covered for basic surgery. Advanced is not covered. Teeth replacement is covered till dental limit.
+
+
+Glossary
+
+
+Terms	Definition
+Company	HCL Technologies Ltd. and its subsidiaries located in India
+Policy	Medical Insurance Policy (Effective Oct 1, 2025)
+EMCP	Extended Medical Coverage Plan
+TPA	Third-Party Administrator
+ 
+
+
+Disclaimers
+
+
+The company reserves the right to alter, append or withdraw this policy either in part or in full based on the management's discretion.
+
